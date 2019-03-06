@@ -15,8 +15,6 @@
 }
 
 
-
-
 .nav-item{   
     text-align: center;
     border-bottom: 8px solid rgba(0, 0, 0, 0.0);   
@@ -27,7 +25,6 @@
 .nav-item:hover{   
     border-bottom: 8px solid rgba(0, 0, 0, 0.7);   
 }
-
 
 
 /*------------------------------------------------------------------------------
@@ -51,8 +48,6 @@
 /*------------------------------------------------------------------------------
 # SECTIONS PÁGINA INICIAL ======================================================  
 ------------------------------------------------------------------------------*/
-
-
 
 .bnt-tema{
     font-size: 40px;
@@ -134,19 +129,14 @@
 
 
 #programacao{
-    background-image: url("../img/bg-repeat2.png");    
+    background-image: url("../img/bg-repeat3.jpg");    
     background-repeat: repeat;
     background-size: 1000px 1000px;
     min-height: 800px;
-    color: #492926;
+    color: #e0d1ad;
 
 }
 
-
-
-#body {
-
-}
 
 #conteudo {
     padding: 20px 0 20px 0;
@@ -200,9 +190,6 @@
     padding-top: 12px; 
 }
 
-
-
-
 /*------------------------------------------------------------------------------
 # DEIXA O RODAPE FIXO NO FIM DA PÁGINA
 ------------------------------------------------------------------------------*/
@@ -221,7 +208,3 @@ body {
     width: 100%;
     bottom: 0;
 }
-
-
-
-
