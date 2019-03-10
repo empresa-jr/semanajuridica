@@ -1,5 +1,5 @@
 
-import ClassesAuxiliares.CodificarSenha;
+import br.com.ejftc.classesAuxiliares.CodificarSenha;
 import java.security.NoSuchAlgorithmException;
 
 public class testeSenha {

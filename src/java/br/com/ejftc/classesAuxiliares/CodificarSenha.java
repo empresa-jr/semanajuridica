@@ -1,4 +1,4 @@
-package ClassesAuxiliares;
+package br.com.ejftc.classesAuxiliares;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
