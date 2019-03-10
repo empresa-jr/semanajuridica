@@ -106,7 +106,7 @@
             <%@ include file="layout/layoutPainelDeControle/rodape.jsp" %>
 
             <!--MÁSCARA CPF-->
-            <script src="recursos/js/cpf.js"></script>
+            <script src="recursos/js/mascaraCpf.js"></script>
 
         </footer>
 
